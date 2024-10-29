@@ -4,11 +4,11 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/mattheweisenberg0605/)
 
-
+<p align="center">
 <img src="https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif?cid=790b7611ij8ycykpk724a9bfgruh6vd6s7zgslbxvsymggdc&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="125">
 <img src="https://media.giphy.com/media/K5AaYpYrzt1U4/giphy.gif?cid=ecf05e47ccjtj0vypm2fk7a1xt1w90frydw5myzbk7ihzrv1&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="125">
 <img src="assets/l-death-note-death-note-l.gif" height="125">
-
+</p>
 
 ### 🧰 Languages and Tools
 
